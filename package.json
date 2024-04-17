@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@matterlabs/hardhat-zksync-solc": "^0.3.17",
-    "hardhat": "^2.13.0"
+    "hardhat": "^2.22.3"
   },
   "dependencies": {
     "@chainlink/contracts": "^0.8.0",
